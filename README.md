@@ -24,7 +24,6 @@ I also serve as a Course Assistant for NYU’s **CS4CS** initiative — designin
 ### 🚀 Featured Projects
 
 - 🔐 [**Secure Chat App**](#) – Built using AES-GCM + ECDH for encrypted communication  
-- 🧪 [**DeHashed API Tool**](#) – Python tool for breach data lookups (threat intel enrichment)  
 - 🕵️ [**Pentest Report (White-box)**](#) – Vulnerability assessment using Nmap, Nessus, and Burp  
 - 🔐 [**3-Party Perfect Secrecy Protocol**](#) – Simulation of secure multi-party key sharing  
 - 👩‍🏫 [**CS4CS Cyber Curriculum**](#) – Fun, technical cybersecurity lessons for high schoolers  
