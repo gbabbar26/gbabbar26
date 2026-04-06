@@ -22,7 +22,7 @@ These projects explore how LLMs can be practically integrated into real defensiv
 |---|---|
 | 🚨 [**AI SOC Alert Triage Tool**](https://github.com/gbabbar26/ai-security-triage-tool) | Ingests SIEM-style alerts (JSON/CSV), uses Claude API to analyse severity, likely threat, and recommended actions. Interactive analyst menu, timestamped reports, severity filtering. |
 | 🔍 [**Threat Hunt Query Generator**](https://github.com/gbabbar26/threat-hunt-query-generator) | Describe a threat in plain English → get platform-specific hunting queries for Splunk, Microsoft Sentinel, or Elastic. |
-| 📊 [**Executive Security Report Summarizer**](https://github.com/gbabbar26/executive-security-report-summarizer) | Transforms raw weekly incident JSON into clean, non-technical leadership summaries with team performance metrics. |
+| 📊 [**Executive Security Report Summarizer**](https://github.com/gbabbar26/executive-report-generator.git) | Transforms raw weekly incident JSON into clean, non-technical leadership summaries with team performance metrics. |
 
 > 💡 *These aren't ML models — they're production-minded tools that show how practitioners can use AI to do real security work faster.*
 
